@@ -1,1 +1,2 @@
-A website for my favourite character is currently being built here!
+# Arnold Schwarzenegger in the movie "Terminator"
+
