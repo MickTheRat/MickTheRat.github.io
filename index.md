@@ -13,3 +13,5 @@ all following movies of the "Terminator" series.
 Wise words from the terminator:
 
 > Hasta la vista baby
+
+<img src="https://mobimg.b-cdn.net/pic/v2/gallery/preview/aktery-arnold_shvarcenegger_arnold_schwarzenegger-kino-lyudi-muzhchiny-terminator_terminator-15738.jpg"/>
