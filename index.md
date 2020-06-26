@@ -9,3 +9,7 @@ all following movies of the "Terminator" series.
 * without emotions
 * horrifying
 * strong
+
+Wise words from the terminator:
+
+> Hasta la vista baby
